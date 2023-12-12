@@ -5,8 +5,7 @@ Inertia allows you to create fully client-side rendered, single-page apps, witho
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/landish/pingcrm-react.git
-cd pingcrm-react
+git clone https://github.com/muhammadshahms/LaravelInertiaJS.git
 ```
 
 Install PHP dependencies:
